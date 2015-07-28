@@ -1,0 +1,27 @@
+/* An example of the note syntax in css */
+h1 {
+  color: #0000FF;
+}
+
+.title-section {
+  text-align: center;
+  font-family: Arial;
+}
+
+.title-section img {
+  border-style: solid;
+  border-color: #5858FA;
+  border-width: 10px;
+  
+}
+
+p {
+  text-align: center;
+  font-family: Arial; 
+}
+
+
+body {
+  background-color: black;
+  color: white;  /*This is the font color.
+}
